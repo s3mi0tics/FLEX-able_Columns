@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+}
+.col{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    background-color:lightblue
+}
+.col-1{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    background-color:lightcoral
+}
+.col-2{
+    flex: 2;
+    margin: 10px;
+    padding: 10px;
+    background-color:lightcoral
+}
+.col-25{
+    flex: 2;
+    margin: 10px;
+    padding: 10px;
+    background-color:lightgreen
+}
+.col-35{
+    flex: 3;
+    margin: 10px;
+    padding: 10px;
+    background-color:lightgreen
+}
